@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: Georgia, serif;
   color: #222;
   background: #f7c02c;
 }
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #520352;
 }
 
 ul.skills {
@@ -156,9 +156,6 @@ a.instagram {
 }
 a.linkedin {
   background-image: url(images/linkedin.svg);
-}
-a.github {
-  background-image: url(images/github.svg);
 }
 a.social:hover {
   opacity: 1;
